@@ -1,0 +1,15 @@
+.container{
+  width: 600px;
+  margin: 0px auto;
+}
+
+
+@media (max-width: 50%) {
+
+  .container {
+    width:300px;
+    margin:50px auto;
+    text-align:center;
+  }
+
+}

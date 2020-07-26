@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&family=Rowdies:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap");
+@import url("Components/banner.css");
+@import url("Components/container.css");
+@import url("Components/button.css");
+@import url("Components/card.css");
+
+
+body{
+
+  font-size:18px;
+}
+
+h1{
+  font-family: 'Courgette', cursive;
+  font-weight: bold;
+}
+
+h2{
+  font-family: 'Rowdies', cursive;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+}
+button{
+  background-color: #c10e0ede;
+  width: 100px;
+  height: 50px;
+  box-shadow: 0px 8px 30px rgba(0,0,0,0.5);
+  border-radius: 50%;
+
+}
